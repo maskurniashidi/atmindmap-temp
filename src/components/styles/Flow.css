@@ -1,0 +1,50 @@
+/* .menu {
+  display: flex;
+} */
+
+/* .btn-add {
+  position: absolute;
+  left: 24px;
+  top: 100px;
+  background-color: white;
+  z-index: 999 !important;
+  border-radius: 8px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 0.5px 3px -1px, rgb(0 0 0 / 15%) 0px 5px 30px -10px;
+  padding: 8px 16px;
+} */
+
+/* .btn-remove__nodes {
+  position: absolute;
+  left: 24px;
+  top: 160px;
+  background-color: white;
+  z-index: 999 !important;
+  border-radius: 8px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 0.5px 3px -1px, rgb(0 0 0 / 15%) 0px 5px 30px -10px;
+  padding: 8px 16px;
+} */
+
+.intersection-flow .react-flow__node.selected,
+.intersection-flow .react-flow__node:focus {
+  border: 2px solid rgb(0, 162, 255) !important;
+  border-radius: 8px !important;
+}
+
+/* .btn-export__nodes {
+  position: absolute;
+  left: 24px;
+  top: 220px;
+  background-color: white;
+  z-index: 999 !important;
+  border-radius: 8px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 0.5px 3px -1px, rgb(0 0 0 / 15%) 0px 5px 30px -10px;
+  padding: 8px 16px;
+} */
+
+.menuLeft {
+}
+
+.iconMenuLeft {
+  width: 30px;
+  height: auto;
+}

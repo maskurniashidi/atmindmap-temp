@@ -1,0 +1,14 @@
+1. LOGIC
+karena data nodes itu tidak global, jadi nodes yg ada di flow dan text updater node itu beda.
+artinya data itu tidak sama nantinya.
+
+lalu ? tadi kan masalahnya sebenernya karna pengeekan data itu double.
+
+harusnya cuma 1x aja ngeceknya. yakni di comp flow.
+
+nah jika menambah data di flow/text updater node. sebenernya cekdata di flow itu jalan. setelah menambah nodes baru. jadi yahh 1 aja gitu.
+
+nah biar nodes dan edges tidak bentrok. harusnya kan ditaruh di global state.
+
+
+
